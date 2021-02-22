@@ -1,2 +1,2 @@
-# Class31
-In this class I made the smoke from the trajectory of the bird.
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
